@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Env / Secrets
+.env
+secrets/
+*.key
+*.json
+
+# System
+.DS_Store
